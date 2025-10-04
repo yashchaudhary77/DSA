@@ -1,4 +1,4 @@
-package leetcode;
+
 import java.util.*;
 class TwoSum{
     public static int[] twosum(int target, int arr[]){
